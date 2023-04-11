@@ -5,10 +5,10 @@ project:
 website:
   title: "Anup Phayal"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
+    right:
       - about.qmd
+      - Research.qmd
+      - Teaching.qmd
 
 format:
   html:
