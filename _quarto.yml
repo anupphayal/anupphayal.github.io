@@ -6,7 +6,8 @@ website:
   title: "Anup Phayal"
   navbar:
     right:
-      - about.qmd
+      - href: index.qmd
+        text: About
       - Research.qmd
       - Teaching.qmd
 
