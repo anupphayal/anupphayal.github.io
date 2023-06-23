@@ -1,1 +1,28 @@
 /* css styles */
+
+
+<style>
+
+p.small {
+    line-height: 0.5;
+}
+.abstract {
+  display: none;
+  padding: 15px 25px;
+  margin: 0 5px 10px 5px;
+  background-color: #EEE;
+}
+
+div .p {
+    padding: 5px 0 10px 0;
+
+}
+.cl{
+    font-weight: bolder;
+}
+
+.place_holder {
+    height: 10px;
+}
+</style>
+
