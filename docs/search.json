@@ -1,8 +1,15 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome! I am an Associate Professor in International Relations in the Public and International Affairs at the University of North Carolina Wilmington. My research and teaching interests lie at the intersection of International Relations and Comparative Politics, focusing on global & maritime security and post-conflict peace building. If you have any questions or if you want to reach out to me, please email me at phayala@uncw.edu."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About",
+    "title": "hhh",
     "section": "",
     "text": "Welcome! I am an Associate Professor in International Relations in the Public and International Affairs at the University of North Carolina Wilmington. My research and teaching interests lie at the intersection of International Relations and Comparative Politics, focusing on global & maritime security and post-conflict peace building. If you have any questions or if you want to reach out to me, please email me at phayala@uncw.edu."
   },
@@ -18,6 +25,6 @@
     "href": "Teaching.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "1 + 1\n\n[1] 2"
   }
 ]
