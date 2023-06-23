@@ -7,8 +7,6 @@ website:
   navbar:
     right:
       - href: index.qmd
-        text: Aboutt
-      - about.qmd
       - Research.qmd
       - Teaching.qmd
 

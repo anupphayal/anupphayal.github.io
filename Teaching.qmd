@@ -1,9 +1,31 @@
 ---
-title: "About"
+title: "Teaching"
 ---
 
-About this site
+My primary area of study is in international relations and comparative politics, and teaching courses in these subfields involve understanding and analyzing global problems often beyond our immediate contexts. I believe that the first step in understanding such complex situations is to develop an empathic concern by visualizing problems through the eyes of main actors on the ground and their interests and preferences. The next step is analyzing "why" behind the events as these interests and preferences interact.
 
-```{r}
-1 + 1
-```
+**\## Teaching experience**
+
+**Graduate** Conflict Management and Resolution:
+
+CMR 547 National & International Security,
+
+CMR 533 Peacekeeping,
+
+CMR 542 Psychology of Terrorism,
+
+CMR 549 Political violence & Insurgency,
+
+CMR 587 Conflict, crisis and disaster management in an international context
+
+**Undergraduate**:
+
+PLS 220 Intro to International Relations,
+
+PLS 230 Intro to Comparative Politics,
+
+PLS 428 Global Terrorism,
+
+PLS 421 Ethnic Conflict,
+
+PLS 424 International Security
