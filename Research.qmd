@@ -26,6 +26,17 @@ div .p {
 }
 </style>
 
+<script src="https://code.jquery.com/jquery-latest.min.js"
+        type="text/javascript"></script>
+
+<script>
+$(document).ready(function(){
+  $(document).on('touchstart click','.cl', function(){
+    $(this).parent().children(".abstract").toggle();
+  });
+});
+</script>
+
 
 ------------------------------------------------------------------------
 
@@ -119,16 +130,6 @@ One of the ways to end protracted, violent, intrastate conflict is negotiated se
 
 * [**"Terrorist targetting"**](with Sambuddha Ghatak & Brandon Prins) --->
 
-<script src="https://code.jquery.com/jquery-latest.min.js"
-        type="text/javascript"></script>
-
-<script>
-$(document).ready(function(){
-  $(document).on('click touchstart','.cl', function() {
-    $(this).parent().children(".abstract").toggle();
-  });
-});
-</script>
 
 
 

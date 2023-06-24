@@ -150,6 +150,14 @@ div .p {
     height: 10px;
 }
 </style>
+<script src="https://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script>
+$(document).ready(function(){
+  $(document).on('touchstart click','.cl', function(){
+    $(this).parent().children(".abstract").toggle();
+  });
+});
+</script>
 <hr>
 <section id="non-peer-reviewed" class="level2">
 <h2 class="anchored" data-anchor-id="non-peer-reviewed">Non-Peer-reviewed</h2>
@@ -226,14 +234,6 @@ One of the ways to end protracted, violent, intrastate conflict is negotiated se
 * [**"Community driven conflict resolution: Evidence from a RCT in Ivory Coast"**](../files/research_folder/Khadka and Phayal CDCR apsa sept 2020.pdf) (with Prabin Khadka)
 
 * [**"Terrorist targetting"**](with Sambuddha Ghatak & Brandon Prins) --->
-<script src="https://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
-<script>
-$(document).ready(function(){
-  $(document).on('click touchstart','.cl', function() {
-    $(this).parent().children(".abstract").toggle();
-  });
-});
-</script>
 
 
 </section>
