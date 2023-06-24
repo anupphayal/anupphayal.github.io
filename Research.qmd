@@ -149,6 +149,22 @@ $(document).ready(function(){
 ```
 ## Non-Peer-reviewed
 
+### Book Chapters
+
+<ol reversed>
+
+
+<li> **“The Economic Impact of Peacekeeping:
+Unemployment, Violence and Support Towards Peacekeepers.”** (With Prabin Khadka) In Handbook on Peacekeeping
+and International Relations, ed. Han Dorussen. Edward Elgar Publishing,
+Cheltenham, United Kingdom (2023). [Download](https://www.researchgate.net/publication/366477294_The_political_economy_of_peacekeeping_unemployment_violence_and_trust_towards_peacekeepers_Evidence_from_Somalia/link/6497361bc41fb852dd2e1cad/download)
+
+<li>  **“Maritime Piracy and Foreign Policy.”** (With B. Prins, A. Gold and U. Daxecker) Oxford Handbook of Foreign Policy. Oxford: Oxford University Press, (2022). [Download](https://www.researchgate.net/publication/371831296_Maritime_Piracy_and_Foreign_Policy/link/64973cdf95bbbe0c6ef0319b/download)
+
+</ol>
+
+### Policy, Media & Blogs
+
 <ol reversed>
 
 
