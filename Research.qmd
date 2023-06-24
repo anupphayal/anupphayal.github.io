@@ -49,10 +49,9 @@ $(document).ready(function(){
 
 <ol reversed>
 
+<li>
 
-
-<li>  [**"The Unexpected Consequences of the COVID-19 Pandemic on Maritime Crime: Evidence from Indonesia and Nigeria"**](https://doi.org/10.1177/22338659221151130) *International Area Studies Review* (2023). [Download](https://www.researchgate.net/profile/Anup-Phayal/publication/367570655_The_unexpected_consequences_of_the_COVID-19_pandemic_on_maritime_crime_Evidence_from_Indonesia_and_Nigeria/links/63dfacbdc97bd76a826ec56c/The-unexpected-consequences-of-the-COVID-19-pandemic-on-maritime-crime-Evidence-from-Indonesia-and-Nigeria.pdf?origin=publication_detail)
-
+[**"The Unexpected Consequences of the COVID-19 Pandemic on Maritime Crime: Evidence from Indonesia and Nigeria"**](https://doi.org/10.1177/22338659221151130) *International Area Studies Review* (2023). [Download](https://www.researchgate.net/profile/Anup-Phayal/publication/367570655_The_unexpected_consequences_of_the_COVID-19_pandemic_on_maritime_crime_Evidence_from_Indonesia_and_Nigeria/links/63dfacbdc97bd76a826ec56c/The-unexpected-consequences-of-the-COVID-19-pandemic-on-maritime-crime-Evidence-from-Indonesia-and-Nigeria.pdf?origin=publication_detail)
 
 <!-- [<a class='cl'>Abstract</a>] -->
 
@@ -62,7 +61,9 @@ $(document).ready(function(){
 
 <!--     </p> <p> </p> -->
 
-<li> [**"Should I Signal Trust? Effect of Terrorism on Interpersonal Trust in Post-conflict and Non-post-conflict Countries"**](https://doi.org/10.1080/09546553.2022.2075265) *Terrorism and Political Violence* (2022). [Download](https://www.researchgate.net/profile/Anup-Phayal/publication/361346314_Should_I_Signal_Trust_Effect_of_Terrorism_on_Interpersonal_Trust_in_Post-Conflict_and_Non-Post-Conflict_Countries/links/6427887da1b72772e43f263a/Should-I-Signal-Trust-Effect-of-Terrorism-on-Interpersonal-Trust-in-Post-Conflict-and-Non-Post-Conflict-Countries.pdf?origin=publication_detail)
+<li>
+
+[**"Should I Signal Trust? Effect of Terrorism on Interpersonal Trust in Post-conflict and Non-post-conflict Countries"**](https://doi.org/10.1080/09546553.2022.2075265) *Terrorism and Political Violence* (2022). [Download](https://www.researchgate.net/profile/Anup-Phayal/publication/361346314_Should_I_Signal_Trust_Effect_of_Terrorism_on_Interpersonal_Trust_in_Post-Conflict_and_Non-Post-Conflict_Countries/links/6427887da1b72772e43f263a/Should-I-Signal-Trust-Effect-of-Terrorism-on-Interpersonal-Trust-in-Post-Conflict-and-Non-Post-Conflict-Countries.pdf?origin=publication_detail)
 
 <!-- [<a class='cl'>Abstract</a>] -->
 
@@ -72,9 +73,13 @@ $(document).ready(function(){
 
 <!--     </p> <p> </p> -->
 
-<li> [**"Interstate Hostility and Maritime Crime: Evidence from South East Asia"**](https://doi.org/10.1016/j.marpol.2022.105134) (with Aaron Gold & B. Prins). *Marine Policy* (2021). [Download](https://www.researchgate.net/profile/Anup-Phayal/publication/361093110_Interstate_hostility_and_maritime_crime_Evidence_from_South_East_Asia/links/62da96ecf3acdd5dc20e8274/Interstate-hostility-and-maritime-crime-Evidence-from-South-East-Asia.pdf) <!-- [<a class='cl'>Abstract</a>]    <p class="abstract"> --> <!-- Maritime Asia remains crucial to global economic growth and prosperity. Nearly 40% of the world's seaborne trade transits the South China Sea each year, and nine of the top ten busiest container ports in the world are located in the Indo-Pacific region. But uncertainties also pervade the region as governments struggle to combat numerous security challenges while violent non-state actors and trans-border criminal groups continue to exploit the environment.  In this study, we examine the nexus between maritime crime and inter-state security, centering on the tactical decision-making of non-state criminal actors. To avoid capture, maritime criminals locate their illicit activities near sea-boundaries where rival states aim to avoid regime confrontations that could escalate to more costly disputes. Pirates, smugglers, and illegal fishers can use these contested border zones as sanctuaries similar to guerilla forces fleeing across land boundaries to avoid pitched battles with regime military units. Using an original geocoded dataset on maritime piracy (MPELD), we find significant support for our hypothesis that conflict among states substantively influences the location of maritime crime. Our study has important implications for global efforts to counter transnational criminal organizations and their illicit activities in maritime spaces defined by territorial quarrels. --> <!--     </p> <p> </p> -->
+<li>
 
-<li> [**"Deploying to protect: the effect of military peacekeeping deployments on violence against civilians"**](https://doi.org/10.1080/13533312.2019.1660166) (with B. Prins). *International Peacekeeping* (2020). [Download](https://www.researchgate.net/profile/Anup-Phayal/publication/335588351_Deploying_to_Protect_The_Effect_of_Military_Peacekeeping_Deployments_on_Violence_Against_Civilians/links/5f8f48dea6fdccfd7b71d72e/Deploying-to-Protect-The-Effect-of-Military-Peacekeeping-Deployments-on-Violence-Against-Civilians.pdf?origin=publication_detail)
+[**"Interstate Hostility and Maritime Crime: Evidence from South East Asia"**](https://doi.org/10.1016/j.marpol.2022.105134) (with Aaron Gold & B. Prins). *Marine Policy* (2021). [Download](https://www.researchgate.net/profile/Anup-Phayal/publication/361093110_Interstate_hostility_and_maritime_crime_Evidence_from_South_East_Asia/links/62da96ecf3acdd5dc20e8274/Interstate-hostility-and-maritime-crime-Evidence-from-South-East-Asia.pdf) <!-- [<a class='cl'>Abstract</a>]    <p class="abstract"> --> <!-- Maritime Asia remains crucial to global economic growth and prosperity. Nearly 40% of the world's seaborne trade transits the South China Sea each year, and nine of the top ten busiest container ports in the world are located in the Indo-Pacific region. But uncertainties also pervade the region as governments struggle to combat numerous security challenges while violent non-state actors and trans-border criminal groups continue to exploit the environment.  In this study, we examine the nexus between maritime crime and inter-state security, centering on the tactical decision-making of non-state criminal actors. To avoid capture, maritime criminals locate their illicit activities near sea-boundaries where rival states aim to avoid regime confrontations that could escalate to more costly disputes. Pirates, smugglers, and illegal fishers can use these contested border zones as sanctuaries similar to guerilla forces fleeing across land boundaries to avoid pitched battles with regime military units. Using an original geocoded dataset on maritime piracy (MPELD), we find significant support for our hypothesis that conflict among states substantively influences the location of maritime crime. Our study has important implications for global efforts to counter transnational criminal organizations and their illicit activities in maritime spaces defined by territorial quarrels. --> <!--     </p> <p> </p> -->
+
+<li>
+
+[**"Deploying to protect: the effect of military peacekeeping deployments on violence against civilians"**](https://doi.org/10.1080/13533312.2019.1660166) (with B. Prins). *International Peacekeeping* (2020). [Download](https://www.researchgate.net/profile/Anup-Phayal/publication/335588351_Deploying_to_Protect_The_Effect_of_Military_Peacekeeping_Deployments_on_Violence_Against_Civilians/links/5f8f48dea6fdccfd7b71d72e/Deploying-to-Protect-The-Effect-of-Military-Peacekeeping-Deployments-on-Violence-Against-Civilians.pdf?origin=publication_detail)
 
 <!-- [<a class='cl'>Abstract</a>] -->
 
@@ -84,7 +89,9 @@ $(document).ready(function(){
 
 <!--     </p> <p> </p> -->
 
-<li> [**"UN Troop Deployment and Preventing Violence Against Civilians in Darfur"**](https://doi.org/10.1080/03050629.2019.1593161). *International Interactions* (2019). [Download](https://www.researchgate.net/profile/Anup-Phayal/publication/331310527_UN_Troop_Deployment_and_Preventing_Violence_Against_Civilians_in_Darfur/links/5c71fcf492851c69503aec6b/UN-Troop-Deployment-and-Preventing-Violence-Against-Civilians-in-Darfur.pdf?origin=publication_detail)
+<li>
+
+[**"UN Troop Deployment and Preventing Violence Against Civilians in Darfur"**](https://doi.org/10.1080/03050629.2019.1593161). *International Interactions* (2019). [Download](https://www.researchgate.net/profile/Anup-Phayal/publication/331310527_UN_Troop_Deployment_and_Preventing_Violence_Against_Civilians_in_Darfur/links/5c71fcf492851c69503aec6b/UN-Troop-Deployment-and-Preventing-Violence-Against-Civilians-in-Darfur.pdf?origin=publication_detail)
 
 <!-- [<a class='cl'>Abstract</a>] -->
 
@@ -94,7 +101,9 @@ $(document).ready(function(){
 
 <!--     </p> <p> </p>  -->
 
-<li> [**"Fueling rebellion: Maritime piracy and the duration of civil war"**](https://doi.org/10.1177/2233865919833975) (with B. Prins & U. Daxecker). *International Area Studies Review* (2019). [Download](https://www.researchgate.net/profile/Anup-Phayal/publication/331310211_Fueling_Rebellion_Maritime_Piracy_and_the_Duration_of_Civil_War_1/links/5c71fe4392851c69503aec89/Fueling-Rebellion-Maritime-Piracy-and-the-Duration-of-Civil-War-1.pdf?origin=publication_detail)
+<li>
+
+[**"Fueling rebellion: Maritime piracy and the duration of civil war"**](https://doi.org/10.1177/2233865919833975) (with B. Prins & U. Daxecker). *International Area Studies Review* (2019). [Download](https://www.researchgate.net/profile/Anup-Phayal/publication/331310211_Fueling_Rebellion_Maritime_Piracy_and_the_Duration_of_Civil_War_1/links/5c71fe4392851c69503aec89/Fueling-Rebellion-Maritime-Piracy-and-the-Duration-of-Civil-War-1.pdf?origin=publication_detail)
 
 <!-- [<a class='cl'>Abstract</a>] -->
 
@@ -104,7 +113,9 @@ $(document).ready(function(){
 
 <!--     </p> <p> </p> -->
 
-<li> [**"Who Wins, Who Loses, Who Negotiates Peace in Civil Wars: Does Regime Type Matter?"**](https://doi.org/10.1093/jogss/ogz011) (with T.D. Mason & M. Gurses). *Journal of Global Security Studies* (2019). [Download](https://www.researchgate.net/profile/Anup-Phayal/publication/331310429_Who_Wins_Who_Loses_Who_Negotiates_Peace_in_Civil_Wars_Does_Regime_Type_Matter/links/5c71fdaa92851c69503aec79/Who-Wins-Who-Loses-Who-Negotiates-Peace-in-Civil-Wars-Does-Regime-Type-Matter.pdf?origin=publication_detail)
+<li>
+
+[**"Who Wins, Who Loses, Who Negotiates Peace in Civil Wars: Does Regime Type Matter?"**](https://doi.org/10.1093/jogss/ogz011) (with T.D. Mason & M. Gurses). *Journal of Global Security Studies* (2019). [Download](https://www.researchgate.net/profile/Anup-Phayal/publication/331310429_Who_Wins_Who_Loses_Who_Negotiates_Peace_in_Civil_Wars_Does_Regime_Type_Matter/links/5c71fdaa92851c69503aec79/Who-Wins-Who-Loses-Who-Negotiates-Peace-in-Civil-Wars-Does-Regime-Type-Matter.pdf?origin=publication_detail)
 
 <!-- [<a class='cl'>Abstract</a>] -->
 
@@ -114,7 +125,9 @@ $(document).ready(function(){
 
 <!--     </p> <p> </p> -->
 
-<li>  [**"What makes an ex-combatant happy? A micro-analysis of disarmament, demobilization, and reintegration in South Sudan"**](https://doi.org/10.1111/isqu.12186) (with P. Khadka & C. L. Thyne). *International Studies Quarterly* (2015). [Download](https://www.researchgate.net/publication/271649151_What_Makes_an_Ex-Combatant_Happy_A_Micro-Analysis_of_Disarmament_Demobilization_and_Reintegration_in_South_Sudan)
+<li>
+
+[**"What makes an ex-combatant happy? A micro-analysis of disarmament, demobilization, and reintegration in South Sudan"**](https://doi.org/10.1111/isqu.12186) (with P. Khadka & C. L. Thyne). *International Studies Quarterly* (2015). [Download](https://www.researchgate.net/publication/271649151_What_Makes_an_Ex-Combatant_Happy_A_Micro-Analysis_of_Disarmament_Demobilization_and_Reintegration_in_South_Sudan)
 
 <!-- [<a class='cl'>Abstract</a>] -->
 
@@ -124,7 +137,9 @@ $(document).ready(function(){
 
 <!--     </p> <p> </p> -->
 
-<li> [**"Cost of violence and the peaceful way out: A comparison of the Provisional Irish Republican Army and the Communist Party of Nepal (Maoists)"**](https://doi.org/10.1080/17467586.2011.575170). *Dynamics of Asymmetric Conflict* (2011). [Download](https://www.researchgate.net/profile/Anup_Phayal/publication/233070516_Cost_of_violence_and_the_peaceful_way_out_A_comparison_of_the_Provisional_Irish_Republican_Army_and_the_Communist_Party_of_Nepal_Maoists/links/5c71f8dea6fdcc471595ff3f/Cost-of-violence-and-the-peaceful-way-out-A-comparison-of-the-Provisional-Irish-Republican-Army-and-the-Communist-Party-of-Nepal-Maoists.pdf)
+<li>
+
+[**"Cost of violence and the peaceful way out: A comparison of the Provisional Irish Republican Army and the Communist Party of Nepal (Maoists)"**](https://doi.org/10.1080/17467586.2011.575170). *Dynamics of Asymmetric Conflict* (2011). [Download](https://www.researchgate.net/profile/Anup_Phayal/publication/233070516_Cost_of_violence_and_the_peaceful_way_out_A_comparison_of_the_Provisional_Irish_Republican_Army_and_the_Communist_Party_of_Nepal_Maoists/links/5c71f8dea6fdcc471595ff3f/Cost-of-violence-and-the-peaceful-way-out-A-comparison-of-the-Provisional-Irish-Republican-Army-and-the-Communist-Party-of-Nepal-Maoists.pdf)
 
 <!--  [<a class='cl'>Abstract</a>] -->
 
@@ -153,13 +168,13 @@ $(document).ready(function(){
 
 <ol reversed>
 
+<li>
 
-<li> **“The Economic Impact of Peacekeeping:
-Unemployment, Violence and Support Towards Peacekeepers.”** (With Prabin Khadka) In Handbook on Peacekeeping
-and International Relations, ed. Han Dorussen. Edward Elgar Publishing,
-Cheltenham, United Kingdom (2023). [Download](https://www.researchgate.net/publication/366477294_The_political_economy_of_peacekeeping_unemployment_violence_and_trust_towards_peacekeepers_Evidence_from_Somalia/link/6497361bc41fb852dd2e1cad/download)
+**"The Economic Impact of Peacekeeping: Unemployment, Violence and Support Towards Peacekeepers."** (With Prabin Khadka) In Handbook on Peacekeeping and International Relations, ed. Han Dorussen. Edward Elgar Publishing, Cheltenham, United Kingdom (2023). [Download](https://www.researchgate.net/publication/366477294_The_political_economy_of_peacekeeping_unemployment_violence_and_trust_towards_peacekeepers_Evidence_from_Somalia/link/6497361bc41fb852dd2e1cad/download)
 
-<li>  **“Maritime Piracy and Foreign Policy.”** (With B. Prins, A. Gold and U. Daxecker) Oxford Handbook of Foreign Policy. Oxford: Oxford University Press, (2022). [Download](https://www.researchgate.net/publication/371831296_Maritime_Piracy_and_Foreign_Policy/link/64973cdf95bbbe0c6ef0319b/download)
+<li>
+
+**"Maritime Piracy and Foreign Policy."** (With B. Prins, A. Gold and U. Daxecker) Oxford Handbook of Foreign Policy. Oxford: Oxford University Press, (2022). [Download](https://www.researchgate.net/publication/371831296_Maritime_Piracy_and_Foreign_Policy/link/64973cdf95bbbe0c6ef0319b/download)
 
 </ol>
 
@@ -167,16 +182,24 @@ Cheltenham, United Kingdom (2023). [Download](https://www.researchgate.net/publi
 
 <ol reversed>
 
+<li>
 
+[Tackling maritime security requires a revised Indo-Pacific strategy.](https://warontherocks.com/2023/06/tackling-maritime-security-requires-a-revised-indo-pacific-strategy/) War on the Rocks, June 2023.
 
-<li> [Tackling maritime security requires a revised Indo-Pacific strategy.](https://warontherocks.com/2023/06/tackling-maritime-security-requires-a-revised-indo-pacific-strategy/) War on the Rocks, June 2023.
+<li>
 
-<li>  [What will Keep ships and people Safer in the Gulf of Guinea.](https://www.washingtonpost.com/politics/2022/06/09/gulf-of-guinea-piracy/) Monkey cage, The Washington Post, June 2022.
+[What will Keep ships and people Safer in the Gulf of Guinea.](https://www.washingtonpost.com/politics/2022/06/09/gulf-of-guinea-piracy/) Monkey cage, The Washington Post, June 2022.
 
-<li> [Fights over marine boundaries are creating safe zones for pirates.](https://www.washingtonpost.com/politics/2021/08/05/fights-over-marine-boundaries-are-creating-safe-zones-pirates/) Monkey cage, The Washington Post, August 2021.
+<li>
 
-<li> [Force vs Legitimacy: UN Peacekeeping and protecting civilian lives.](https://politicalviolenceataglance.org/2019/04/22/force-vs-legitimacy-un-peacekeeping-and-protecting-civilian-lives/#respond) Political Violence At a Glance, April 2019
+[Fights over marine boundaries are creating safe zones for pirates.](https://www.washingtonpost.com/politics/2021/08/05/fights-over-marine-boundaries-are-creating-safe-zones-pirates/) Monkey cage, The Washington Post, August 2021.
 
-<li> [Satisfaction among ex-combatants after DDR.](https://politicalviolenceataglance.org/2016/05/30/satisfaction-among-ex-combatants-after-ddr/) Political Violence At a Glance, May 2016
+<li>
+
+[Force vs Legitimacy: UN Peacekeeping and protecting civilian lives.](https://politicalviolenceataglance.org/2019/04/22/force-vs-legitimacy-un-peacekeeping-and-protecting-civilian-lives/#respond) Political Violence At a Glance, April 2019
+
+<li>
+
+[Satisfaction among ex-combatants after DDR.](https://politicalviolenceataglance.org/2016/05/30/satisfaction-among-ex-combatants-after-ddr/) Political Violence At a Glance, May 2016
 
 </ol>
