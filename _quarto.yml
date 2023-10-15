@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Anup Phayal"
+  google-analytics: "G-DN6WBV6G5P"
   navbar:
     right:
       - href: index.qmd
