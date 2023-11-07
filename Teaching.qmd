@@ -2,11 +2,24 @@
 title: "Teaching"
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DN6WBV6G5P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DN6WBV6G5P');
+</script>
+
+
+
+
 My primary area of study is in international relations and comparative politics, and teaching courses in these subfields involve understanding and analyzing global problems often beyond our immediate contexts. I believe that the first step in understanding such complex situations is to develop an empathic concern by visualizing problems through the eyes of main actors on the ground and their interests and preferences. The next step is analyzing "why" behind the events as these interests and preferences interact.
 
-**\## Teaching experience**
+**Classes taught**
 
-**Graduate** Conflict Management and Resolution:
+**Graduate** *Conflict Management and Resolution*:
 
 CMR 547 National & International Security,
 
@@ -17,6 +30,12 @@ CMR 542 Psychology of Terrorism,
 CMR 549 Political violence & Insurgency,
 
 CMR 587 Conflict, crisis and disaster management in an international context
+
+*Coastal and Ocean Policy (MCOP)*:
+
+MCOP 592 Data Analysis and Maritime Security
+
+
 
 **Undergraduate**:
 
