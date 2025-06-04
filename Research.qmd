@@ -5,21 +5,34 @@ title: "Research"
 <!-- Google tag (gtag.js) -->
 
 <!-- ```{=html} -->
+
 <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-DN6WBV6G5P"></script> -->
+
 <!-- ``` -->
+
 <!-- ```{=html} -->
+
 <!-- <script> -->
+
 <!--   window.dataLayer = window.dataLayer || []; -->
+
 <!--   function gtag(){dataLayer.push(arguments);} -->
+
 <!--   gtag('js', new Date()); -->
 
 <!--   gtag('config', 'G-DN6WBV6G5P'); -->
+
 <!-- </script> -->
+
 <!-- ``` -->
 
-
 <!-- Google tag (gtag.js) -->
+
+```{=html}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-DN6WBV6G5P"></script>
+```
+
+```{=html}
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -27,8 +40,7 @@ title: "Research"
 
   gtag('config', 'G-DN6WBV6G5P');
 </script>
-
-
+```
 
 ```{=html}
 <style>
@@ -55,10 +67,12 @@ div .p {
 }
 </style>
 ```
+
 ```{=html}
 <script src="https://code.jquery.com/jquery-latest.min.js"
         type="text/javascript"></script>
 ```
+
 ```{=html}
 <script>
 $(document).ready(function(){
@@ -78,6 +92,74 @@ $(document).ready(function(){
 <ol reversed>
 
 <li>
+
+**"Confict and Cooperation in the Maritime Space Resources, Militarization, and the Role of Non-State Actors."** *Working Paper* (2025). [Download](https://uncw4-my.sharepoint.com/:b:/g/personal/phayala_uncw_edu/ERR7VT0jIUxBjQiPdLX20VIB34W_ELdQG5wM3PvJks2CuQ?e=gKSNao)
+
+<!-- [<a class='cl'>Abstract</a>] -->
+
+<!--     <p class="abstract"> -->
+
+<!-- Abstract
+ -->
+
+<!--     </p> <p> </p> -->
+
+<li>
+
+**"Caught in the Net Unraveling the Crime-Milieu in Indonesian Waters through Survey Data."** *Working paper (under review)* (2025). [Download](https://uncw4-my.sharepoint.com/:b:/g/personal/phayala_uncw_edu/ESWUALtz-fxIjCg_TtDkri4BifYY1BdeZKSRT68tIi5z2w?e=aeXrqs)
+
+<!-- [<a class='cl'>Abstract</a>] -->
+
+<!--     <p class="abstract"> -->
+
+<!-- Abstract
+ -->
+
+<!--     </p> <p> </p> -->
+
+
+
+<li>
+
+[**"Attrition and Provocation: Sub-national Variation in Terrorist Targeting"**](https://www.jstor.org/stable/27315308) *Perspectives on Terrorism* (2024). [Download](https://www.jstor.org/stable/27315308?seq=1)
+
+<!-- [<a class='cl'>Abstract</a>] -->
+
+<!--     <p class="abstract"> -->
+
+<!-- Recent studies have examined the strategic logic of terrorist targeting. We advance this research line by studying a broader category of terrorist groups and argue that they select government and civilian targets based on several strategic considerations, such as local state capacity and regime type. The empirical analyses include all geocoded terrorist attacks in the world between 1990 and 2014. We find that local state capacity plays a vital role in terrorist target selection. However, the effect of the local setting on terrorist targeting appears conditional on a country's regime type. In democratic states, terrorists primarily strike civilian targets in urban settings but attack government and security personnel more frequently in rural environments. In autocratic states, terrorists are more likely to target government and security personnel when they operate in urban areas. More notably, the increase in civilian targeting from rural to urban areas in democratic states is nearly twice as high as in autocratic regimes. The findings in this study have important implications for various disciplines across the field.
+ -->
+
+<!--     </p> <p> </p> -->
+
+
+<li>
+
+[**"The Complementary Relationship between Illegal Fishing and Maritime Piracy A Case Study of the Gulf of Guinea"**](https://doi.org/10.1016/j.marpol.2024.106209) *Marine Policy* (2024). [Download](https://uncw4-my.sharepoint.com/:b:/g/personal/phayala_uncw_edu/EUO8LeCnzT1LkaJT796la1wBJjjC9WKQvdMcELQ8-ffjXg?e=lVwEWp)
+
+<!-- [<a class='cl'>Abstract</a>] -->
+
+<!--     <p class="abstract"> -->
+
+<!-- This research paper investigates the interrelationship between maritime crime, specifically sea piracy, and illegal fishing. Existing studies primarily focus on the link between piracy and illegal fishing activities carried out by foreign trawlers, drawing evidence from Somali piracy cases. A causal narrative in past works highlights the detrimental effects of foreign trawlers on local marine resources, ecosystems, and livelihoods, thereby driving local fishers to turn toward piracy and prompting coastal states to address the key issue of illegal fishing by foreign vessels. However, this emphasis on external perpetrators can lead states to pay less attention to local actors involved in illegal fishing and maritime piracy. Therefore, this study redirects our attention to local perpetrators who engage in illegal fishing and maritime piracy. It explores the complementary relationship between these two types of crimes. Our findings indicate that reducing illegal fishing activities in a local area enhances the likelihood of maritime piracy occurrence. By shedding light on the complementarity between illegal fishing and maritime piracy, this research provides valuable insights for policymakers and law enforcement agencies involved in combating maritime crime. It underscores the importance of locally addressing illegal fishing and piracy using a more holistic approach.
+ -->
+
+<!--     </p> <p> </p> -->
+
+<li>
+
+[**"All Maritime Crimes are Local: Understanding the Causal Link Between Illegal Fishing And Maritime Piracy"**](https://doi.org/10.1016/j.polgeo.2024.103069) *Political Geography* (2024). [Download](https://uncw4-my.sharepoint.com/:b:/g/personal/phayala_uncw_edu/Ea5TCKfr5jRGpdBlWBlDe9EB01mQNV2hnRkvBO4jCTL0dw?e=R8AtiX)
+
+<!-- [<a class='cl'>Abstract</a>] -->
+
+<!--     <p class="abstract"> -->
+
+<!-- Two types of maritime crime, piracy and illegal fishing, are common and pose risks to marine security. Past studies show a correlational link between the two activities, but the causal direction is far from clear. A popular narrative of the event is that foreign fishing events deplete local resources, causing local fishers to turn to piracy. We propose another mechanism that links the two events by focusing on local perpetrators. We argue that maritime piracy is a high-risk, high-reward substitute for local actors who engage in illegal fishing. Empirically, this would mean that a constraint placed on illegal fishing at the local level should lead to a higher likelihood of pirate attacks if the area provides an abundant opportunity. For evidence, we explore these relationships in Indonesian waters. Our unit of analysis is the 0.5 × 0.5° grid cell year within Indonesian EEZ from 1990 to 2017. Results support our hypotheses. When there is a decline in Illegal, Unreported, and Unregulated (IUU) fishing in an area, we find a greater likelihood of ship attacks, especially if vessel traffic in the grid cell is high. Importantly, we fail to see a similar relationship with legal fishing, which tells us that local capacity and conditions, rather than environmental factors, are likely the driving force behind piracy attacks. We also find little evidence of a reverse relationship where piracy drives IUU fishing. -->
+
+<!--     </p> <p> </p> -->
+
+<li>
+
 
 [**"The Unexpected Consequences of the COVID-19 Pandemic on Maritime Crime: Evidence from Indonesia and Nigeria"**](https://doi.org/10.1177/22338659221151130) *International Area Studies Review* (2023). [Download](https://www.researchgate.net/profile/Anup-Phayal/publication/367570655_The_unexpected_consequences_of_the_COVID-19_pandemic_on_maritime_crime_Evidence_from_Indonesia_and_Nigeria/links/63dfacbdc97bd76a826ec56c/The-unexpected-consequences-of-the-COVID-19-pandemic-on-maritime-crime-Evidence-from-Indonesia-and-Nigeria.pdf?origin=publication_detail)
 
@@ -190,6 +272,7 @@ $(document).ready(function(){
 
 * [**"Terrorist targetting"**](with Sambuddha Ghatak & Brandon Prins) --->
 ```
+
 ## Non-Peer-reviewed
 
 ### Book Chapters
