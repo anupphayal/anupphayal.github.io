@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "Welcome! I am an Associate Professor in International Relations in the Public and International Affairs at the University of North Carolina Wilmington. My research and teaching interests lie at the intersection of International Relations and Comparative Politics, focusing on armed conflict, maritime security, and post-conflict peacebuilding. If you have any questions or if you want to reach out to me, please email me at phayala@uncw.edu.\nDownload CV\nMarine Security blog"
-  },
-  {
     "objectID": "Research.html#peer-reviewed-publications",
     "href": "Research.html#peer-reviewed-publications",
     "title": "Research",
@@ -25,6 +18,13 @@
     "href": "Teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Classes taught\nGraduate Conflict Management and Resolution:\nCMR 547 National & International Security,\nCMR 533 Peacekeeping,\nCMR 542 Psychology of Terrorism,\nCMR 549 Political violence & Insurgency,\nCMR 587 Conflict, crisis and disaster management in an international context\nCoastal and Ocean Policy (MCOP):\nMCOP 592 Data Analysis and Maritime Security\nUndergraduate:\nPLS 220 Intro to International Relations,\nPLS 230 Intro to Comparative Politics,\nPLS 428 Global Terrorism,\nPLS 421 Ethnic Conflict,\nPLS 424 International Security"
+    "text": "My primary area of study is in international relations and comparative politics, and teaching courses in these subfields involve understanding and analyzing global problems often beyond our immediate contexts. I believe that the first step in understanding such complex situations is to develop an empathic concern by visualizing problems through the eyes of main actors on the ground and their interests and preferences. The next step is analyzing “why” behind the events as these interests and preferences interact.\nClasses taught\nGraduate Conflict Management and Resolution:\nCMR 547 National & International Security,\nCMR 533 Peacekeeping,\nCMR 542 Psychology of Terrorism,\nCMR 549 Political violence & Insurgency,\nCMR 587 Conflict, crisis and disaster management in an international context\nCoastal and Ocean Policy (MCOP):\nMCOP 592 Data Analysis and Maritime Security\nUndergraduate:\nPLS 220 Intro to International Relations,\nPLS 230 Intro to Comparative Politics,\nPLS 428 Global Terrorism,\nPLS 421 Ethnic Conflict,\nPLS 424 International Security"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome! I am an Associate Professor in International Relations in the Public & International Affairs at the University of North Carolina Wilmington. My research and teaching interests lie at the intersection of International Relations and Comparative Politics, focusing on armed conflict, maritime security, and post-conflict peacebuilding. If you have any questions or if you want to reach out to me, please email me at phayala@uncw.edu.\nDownload CV\nMarine Security blog"
   }
 ]

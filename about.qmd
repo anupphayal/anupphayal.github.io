@@ -5,20 +5,34 @@ title: "Anup Phayal"
 <!-- Google tag (gtag.js) The foolowing for google analytics -->
 
 <!-- ```{=html} -->
+
 <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-DN6WBV6G5P"></script> -->
+
 <!-- ``` -->
+
 <!-- ```{=html} -->
+
 <!-- <script> -->
+
 <!--   window.dataLayer = window.dataLayer || []; -->
+
 <!--   function gtag(){dataLayer.push(arguments);} -->
+
 <!--   gtag('js', new Date()); -->
 
 <!--   gtag('config', 'G-DN6WBV6G5P'); -->
+
 <!-- </script> -->
+
 <!-- ``` -->
 
 <!-- Google tag (gtag.js) -->
+
+```{=html}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-DN6WBV6G5P"></script>
+```
+
+```{=html}
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -26,3 +40,4 @@ title: "Anup Phayal"
 
   gtag('config', 'G-DN6WBV6G5P');
 </script>
+```
