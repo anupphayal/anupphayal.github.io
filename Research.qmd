@@ -93,7 +93,7 @@ $(document).ready(function(){
 
 <li>
 
-**"Confict and Cooperation in the Maritime Space Resources, Militarization, and the Role of Non-State Actors."** *Working Paper* (2026). [Download](https://uncw4-my.sharepoint.com/:b:/g/personal/phayala_uncw_edu/IQDwrMJa-vnTQIev4fGA7_ZPAe9blccZkeqcVIqBuTiXH-Q?e=GrbcuV)
+**"Confict and Cooperation in the Maritime Space: Resources, Militarization, and the Role of Non-State Actors."** *Working Paper* (2026). [Download](https://uncw4-my.sharepoint.com/:b:/g/personal/phayala_uncw_edu/IQDwrMJa-vnTQIev4fGA7_ZPAe9blccZkeqcVIqBuTiXH-Q?e=GrbcuV)
 <!-- in "completed research" -->
 <!-- [<a class='cl'>Abstract</a>] -->
 
