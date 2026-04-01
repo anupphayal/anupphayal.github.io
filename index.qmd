@@ -27,3 +27,36 @@ Welcome! I am an Associate Professor in International Relations in the [Public &
 Download [CV](pic/cv_anup_phayal.pdf)
 
 [Marine Security blog](https://polsechub.github.io/marine_security/#category=)
+
+
+<br><br><br><br>
+
+
+::: {.columns layout-valign="center"}
+
+
+::: {.column width="33%"}
+** **
+
+
+![](pic/roundtable_small.jpg){fig-align="center" width="200"}
+:::
+
+
+::: {.column width="33%"}
+**The Atlantic Center, Portugal, 2024**
+
+
+![](pic/pic_portugal_1.jpg){fig-align="center" width="200"}
+:::
+
+
+::: {.column width="33%"}
+** **
+
+
+![](pic/group.jpg){fig-align="center" width="200"}
+:::
+
+
+:::

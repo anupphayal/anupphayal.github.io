@@ -3,7 +3,12 @@ title: "Teaching"
 ---
 
 <!-- Google tag (gtag.js) -->
+
+```{=html}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-DN6WBV6G5P"></script>
+```
+
+```{=html}
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -11,19 +16,19 @@ title: "Teaching"
 
   gtag('config', 'G-DN6WBV6G5P');
 </script>
+```
 
-
-
-
-My primary area of study is in international relations and comparative politics, and teaching courses in these subfields involve understanding and analyzing global problems often beyond our immediate contexts. I believe that the first step in understanding such complex situations is to develop an empathic concern by visualizing problems through the eyes of main actors on the ground and their interests and preferences. The next step is analyzing "why" behind the events as these interests and preferences interact.
+My research and teaching in international security focus on the 'logic of the actor.' I believe that analyzing complex global problems requires more than just observing events; it requires strategic empathy. This means visualizing challenges through the eyes of the actors on the ground, understanding their specific interests, preferences, and constraints. By teaching students to first map these motivations, we can more effectively analyze the 'why' behind state and non-state actions and better predict how those interests will interact in contested spaces.
 
 **Classes taught**
+
+**Graduate** *Coastal and Ocean Policy (MCOP)*:
+
+MCOP 592 Data Analysis and Maritime Security
 
 **Graduate** *Conflict Management and Resolution*:
 
 CMR 547 National & International Security,
-
-CMR 533 Peacekeeping,
 
 CMR 542 Psychology of Terrorism,
 
@@ -31,20 +36,18 @@ CMR 549 Political violence & Insurgency,
 
 CMR 587 Conflict, crisis and disaster management in an international context
 
-*Coastal and Ocean Policy (MCOP)*:
+CMR 533 Peacekeeping,
 
-MCOP 592 Data Analysis and Maritime Security
+**Undergraduate**: IR
 
-
-
-**Undergraduate**:
+HON Maritime Security
 
 PLS 220 Intro to International Relations,
 
-PLS 230 Intro to Comparative Politics,
+PLS 424 National & International Security,
 
 PLS 428 Global Terrorism,
 
 PLS 421 Ethnic Conflict,
 
-PLS 424 International Security
+PLS 499 Maritime Security (Honors)
